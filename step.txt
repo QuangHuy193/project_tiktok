@@ -1,3 +1,4 @@
 cài customize-cra để có thể tùy chỉnh webpack
 cài babel-plugin-module-resolver giúp import gọn hơn (phải chỉnh wepack)
 cài để sử dụng sass
+thư viện tippyjs 
