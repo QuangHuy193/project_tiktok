@@ -69,3 +69,15 @@
   min-width: 140px;
   padding: 14px 16px;
 }
+
+//icon
+.icon + .title,
+.title + .icon {
+  margin-left: 8px;
+}
+
+.icon {
+  display: inline-block;
+  width: 24px;
+  text-align: center;
+}
